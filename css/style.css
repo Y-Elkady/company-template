@@ -88,7 +88,7 @@ nav a img{
         color: white;
     }
 }
-@media ((min-width:394px) and (max-width: 688px)) {
+@media ((min-width:290px) and (max-width: 688px)) {
     .navbar .navbar-nav .nav-item .nav-link:hover:before{
         width: 0%;
     }
@@ -168,7 +168,7 @@ nav a img{
 
 }
 
-@media ((min-width:394px) and (max-width: 480px)) {
+@media ((min-width:290px) and (max-width: 480px)) {
     .carousel-item{
         height: 680px;
     }
@@ -377,6 +377,15 @@ nav a img{
     width: 200px;
     padding: 10px;
 }
+
+
+
+@media ((min-width:290px) and (max-width: 480px)) {
+    .years-info  button{
+        width: 200px;
+     
+     }
+}
 @media ((max-width:737px)) {
     .services-img {
         margin-bottom: 0px;
@@ -471,7 +480,7 @@ nav a img{
     margin-top: 15px;
 }
 
-@media ((min-width:394px) and (max-width: 480px)) {
+@media ((min-width:290px) and (max-width: 480px)) {
     .choose-us .image  {
         position: relative;
         margin-top: 30px;
@@ -498,6 +507,10 @@ nav a img{
     .choose-us .image .icon h4{
         font-size: 17px;
         margin-top: 3px;
+    }
+    .choose-us .info button{
+       width: 200px;
+    
     }
 }
 @media ((min-width:481px) and (max-width: 768px)) {
@@ -555,7 +568,7 @@ nav a img{
     height: 300px;
 }
 
- @media ((min-width:394px) and (max-width: 480px)) {
+ @media ((min-width:290px) and (max-width: 480px)) {
     .but-video{
         width: 100px;
         height: 100px;
