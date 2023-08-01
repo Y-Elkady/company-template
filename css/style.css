@@ -504,6 +504,19 @@ nav a img{
     .choose-us .image  {
         margin-top: 30px;
     }
+    .choose-us .image img   {
+        width: 99%;
+        height: 100%;
+   
+    }
+    .choose-us .image .icon i{
+        font-size: 15px;
+        margin-top: 8px;
+    }
+    .choose-us .image .icon h4{
+        font-size: 17px;
+        margin-top: 3px;
+    }
 
 }
 /* @media ((min-width:769px) and (max-width: 1024px)) {
@@ -549,13 +562,20 @@ nav a img{
     }
 
 } 
-/* @media ((min-width:481px) and (max-width: 768px)) {
-
+ @media ((min-width:481px) and (max-width: 768px)) {
+    .but-video{
+        width: 100px;
+        height: 100px;
+    }
 
 }
 @media ((min-width:769px) and (max-width: 1024px)) {
-    
-}  */
+    .but-video{
+        width: 100px;
+        height: 100px;
+    }
+
+}  
 
 
  /* end video */
